@@ -1,1 +1,1 @@
-# lab-colaboracao-github
+Projeto de colaboração
